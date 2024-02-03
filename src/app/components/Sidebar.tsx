@@ -47,8 +47,8 @@ export const Sidebar = () => {
 
 
             <div id="profile" className="px-6 py-10">
-                <p className="text-slate-500">Welcome back,</p>
-                <a href="#" className="inline-flex space-x-2 items-center">
+                <p className="text-slate-500">Created by,</p>
+                <a href="https://www.linkedin.com/in/ivan-alejandro-panussis-conejeros/" className="inline-flex space-x-2 items-center" target='_blank'>
                     <span>
                         <Image className="rounded-full w-8 h-8" 
                         width={50} 
